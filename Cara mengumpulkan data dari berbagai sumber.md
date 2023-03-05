@@ -12,8 +12,8 @@
 2. Buka Microsoft Excel untuk langkah pertama yang dilakukan yaitu mengklik Data terlebih dahulu.
 3. Kemudian di Data, klik bagian Get Data From Text.
 4. Lalu akan diarahkan ke File Explorer untuk memilih file CSV yang telah di download sebelumnya, kemudian klik import.
-5. Setelah klik import akan menampilkan jendela Import Wizard dan akan ada pilihan antara Delimited atau Fixed Width, setelah itu pilih yang Delimited. Jangan lupa centang juga “My data has headers” lalu klik next.
-6. Di jendela Import Wizard selanjutnya akan ada pilihan Tab, Semicolon, Comma, Space, Other. Di jendela tersebut klik yang bagian Comma kemudian Next dan Finish.
+5. Setelah klik import akan menampilkan jendela Import Wizard dan akan ada pilihan antara Delimited atau Fixed Width, setelah itu pilih Delimited. Jangan lupa untuk mencentang juga “My data has headers” lalu klik next.
+6. Di jendela Import Wizard selanjutnya akan ada pilihan Tab, Semicolon, Comma, Space, Other. Di jendela tersebut klik pada bagian Comma kemudian Next dan Finish.
 7. File CSV sudah di Load di Excel.
 
 ## Cara Load data file CSV ke Power BI :
